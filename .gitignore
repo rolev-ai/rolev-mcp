@@ -1,0 +1,13 @@
+# The MCP Registry signing key and any login tokens must never be committed.
+*.pem
+*.key
+.mcpregistry_*
+.mcp_publisher*
+mcp-publisher
+mcp-publisher.exe
+
+# Local clutter
+.DS_Store
+Thumbs.db
+.env
+.env.*

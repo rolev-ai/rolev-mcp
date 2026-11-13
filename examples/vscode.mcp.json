@@ -1,0 +1,5 @@
+{
+  "servers": {
+    "rolev": { "type": "http", "url": "https://rolev.ai/mcp" }
+  }
+}
